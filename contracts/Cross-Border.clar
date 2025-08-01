@@ -354,8 +354,6 @@
   )
 )
 
-
-
 (define-map insurance-policies
   uint
   {

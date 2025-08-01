@@ -9,6 +9,10 @@ requirements = []
 path = 'contracts/Cross-Border.clar'
 clarity_version = 3
 epoch = 3.1
+[contracts.Loyalty-Rewards-System]
+path = 'contracts/Loyalty-Rewards-System.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
